@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 /**
- * Clase para probar los métods de la clase CadenaAlumno.java
+ * CLASE PARA PROBAR LOS METODOS DE LA CLASE ALOJAMIENTO
  * 
  * @author Laura Martinez Priego 1º DAM
  *

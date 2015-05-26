@@ -2,9 +2,9 @@ package unit11;
 
 /**
 * CLASE SOBRE LA CUAL SE GUARDAN LAS RESERVAS
-* PROYECTO ENTORNOS 2015 
-* @author Laura martinez Priego
 * 
+* @author Laura martinez Priego
+* PROYECTO ENTORNOS 2015 
 * 
 */
 public class Reserva 
