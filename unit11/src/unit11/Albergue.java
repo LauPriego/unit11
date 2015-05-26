@@ -1,9 +1,10 @@
 package unit11;
 /**
- * 
- * @author Laura martinez Priego
- * PROYECTO ENTORNOS 2015 
  * UN TIPO DE ALOJAMIENTO
+ * PROYECTO ENTORNOS 2015 
+ * @author Laura martinez Priego
+ * 
+ * 
  */
 public class Albergue extends Alojamiento
 {

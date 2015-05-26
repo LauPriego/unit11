@@ -3,10 +3,10 @@ package unit11;
 import java.util.ArrayList;
 import java.util.Scanner;
 /**
- * 
+ * Nucleo del software que gestiona las demás clases y su funcionalidad
  * @author Laura martinez Priego
  * PROYECTO ENTORNOS 2015 
- * Nucleo del software que gestiona las demás clases y su funcionalidad
+ * 
  */
 public class GestionAlojamientos 
 {

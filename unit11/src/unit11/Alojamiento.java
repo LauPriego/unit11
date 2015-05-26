@@ -5,10 +5,10 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author LAURA MARTINEZ PRIEGO
+ * 
  * CLASE BASE DE LOS DIFERENTES ALOJAMIENTOS
  * LAS DEMAS HEREDAN DE ELLA
- *
+ *@author LAURA MARTINEZ PRIEGO
  */
 public class Alojamiento 
 {

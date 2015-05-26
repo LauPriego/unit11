@@ -1,5 +1,12 @@
 package unit11;
 
+/**
+* CLASE SOBRE LA CUAL SE GUARDAN LAS RESERVAS
+* PROYECTO ENTORNOS 2015 
+* @author Laura martinez Priego
+* 
+* 
+*/
 public class Reserva 
 {
 	String nombre, fechaEntrada, fechaSalida, nombreAlojamiento;

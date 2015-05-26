@@ -2,6 +2,13 @@ package unit11;
 
 enum Pension{DESAYUNO, MEDIA, COMPLETA};
 
+/**
+* UN TIPO DE ALOJAMIENTO
+* PROYECTO ENTORNOS 2015 
+* @author Laura martinez Priego
+* 
+* 
+*/
 public class Hotel extends Alojamiento
 {
 	Pension TipoDePension;

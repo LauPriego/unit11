@@ -1,5 +1,11 @@
 package unit11;
-
+/**
+* UN TIPO DE ALOJAMIENTO
+* PROYECTO ENTORNOS 2015 
+* @author Laura martinez Priego
+* 
+* 
+*/
 public class Hostal extends Alojamiento
 {
 	boolean conDesayuno;
