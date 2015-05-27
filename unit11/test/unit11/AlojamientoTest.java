@@ -117,6 +117,14 @@ public class AlojamientoTest
 		int resultadoEsperado = 100;
 		assertNotEquals(resultadoObtenido, resultadoEsperado);
 	}
+	@Test(expected = NumberFormatException.class)
+	public void testConvertirDiaDelAnyo3() 
+	{
+		int resultadoObtenido = a.ConvertirDiaDelAnyo("fgs");
+		int resultadoEsperado = 100;
+		assertNotEquals(resultadoObtenido, resultadoEsperado);
+	}
+	
 
 
 }

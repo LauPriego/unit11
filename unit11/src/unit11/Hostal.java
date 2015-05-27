@@ -31,10 +31,17 @@ public class Hostal extends Alojamiento
 	 */
 	public int SetDesayuno(String opcion) 
 	{
-		if (opcion.equalsIgnoreCase("s")) 			
+		if (opcion.equalsIgnoreCase("s")) 
+		{
 			this.conDesayuno = true;
-		else this.conDesayuno = false;
-		return super.precioExtras;
+			return super.precioExtras;
+		}
+		else 
+			{
+				this.conDesayuno = false;
+				return 0;
+			}
+		
 	}
 	
 	

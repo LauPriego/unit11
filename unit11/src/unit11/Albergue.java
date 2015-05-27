@@ -26,10 +26,18 @@ public class Albergue extends Alojamiento
 	 */
 	public int SetDuchaIndividual(String opcion)
 	{
-		if (opcion.equalsIgnoreCase("s")) 			
+		if (opcion.equalsIgnoreCase("s")) 	
+		{
 			this.eleccionSobreDuchaindividual = true;
-		else this.eleccionSobreDuchaindividual = false;
-		return super.precioExtras;
+			return super.precioExtras;
+		}
+			
+		else 
+			{
+				this.eleccionSobreDuchaindividual = false;
+				return 0;
+			}
+		
 	}
 	
 	/**
